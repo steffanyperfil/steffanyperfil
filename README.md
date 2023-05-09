@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @steffanyperfil
-- 👀 I’m interested in  javascrip   
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in  Linux, infrastructure, Docker end Cloud. 
 - 💞️ I’m looking to collaborate on  pequenos projetos
 -  📫 How to reach me  steffanyperfl@hotmail.com
 
